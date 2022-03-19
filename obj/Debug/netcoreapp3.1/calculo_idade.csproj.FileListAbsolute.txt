@@ -1,0 +1,13 @@
+C:\Users\Gabi\Desktop\calculo_idade\bin\Debug\netcoreapp3.1\calculo_idade.exe
+C:\Users\Gabi\Desktop\calculo_idade\bin\Debug\netcoreapp3.1\calculo_idade.deps.json
+C:\Users\Gabi\Desktop\calculo_idade\bin\Debug\netcoreapp3.1\calculo_idade.runtimeconfig.json
+C:\Users\Gabi\Desktop\calculo_idade\bin\Debug\netcoreapp3.1\calculo_idade.runtimeconfig.dev.json
+C:\Users\Gabi\Desktop\calculo_idade\bin\Debug\netcoreapp3.1\calculo_idade.dll
+C:\Users\Gabi\Desktop\calculo_idade\bin\Debug\netcoreapp3.1\calculo_idade.pdb
+C:\Users\Gabi\Desktop\calculo_idade\obj\Debug\netcoreapp3.1\calculo_idade.csprojAssemblyReference.cache
+C:\Users\Gabi\Desktop\calculo_idade\obj\Debug\netcoreapp3.1\calculo_idade.AssemblyInfoInputs.cache
+C:\Users\Gabi\Desktop\calculo_idade\obj\Debug\netcoreapp3.1\calculo_idade.AssemblyInfo.cs
+C:\Users\Gabi\Desktop\calculo_idade\obj\Debug\netcoreapp3.1\calculo_idade.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\calculo_idade\obj\Debug\netcoreapp3.1\calculo_idade.dll
+C:\Users\Gabi\Desktop\calculo_idade\obj\Debug\netcoreapp3.1\calculo_idade.pdb
+C:\Users\Gabi\Desktop\calculo_idade\obj\Debug\netcoreapp3.1\calculo_idade.genruntimeconfig.cache
